@@ -1,2 +1,2 @@
 # PGN-Utils
-A useful set of modules and utilities for handling and converting files of the .pgn type. The goal of this repository is to make it easier for people to analyze chess games.
+A useful set of modules and utilities for handling and converting files of the .pgn type. The goal of this repository is to make it easier for people to analyze chess games. (There is not really anything in this repo yet rn)
