@@ -1,0 +1,20 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.05.26"]
+[Round "?"]
+[White "Example1"]
+[Black "Example2"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "1700"]
+[BlackElo "1800"]
+[TimeControl "600"]
+[EndTime "18:33:39 PDT"]
+[Termination "Example1 won by checkmate"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. Nc3 O-O 6. O-O d6 7. Bg5 Re8 8. Bxf6
+Qxf6 9. Qe2 Be6 10. Bxe6 Qxe6 11. Nd5 Nd4 12. Qd2 Qe7 13. Nxd4 Qd8 14. Nb3 c6
+15. Ne3 Bd4 16. Nxd4 exd4 17. Ng4 Qh4 18. f3 f5 19. exf5 Rf8 20. g3 Qh3 21. Nf2
+Qxf5 22. f4 c5 23. c4 Rf6 24. Rae1 Qh5 25. Re2 Rh6 26. h3 Qg6 27. Kg2 Qh5 28.
+Rfe1 b6 29. g4 Qg6 30. f5 Qf6 31. Re8+ Rxe8 32. Rxe8+ Kf7 33. Qe2 Qh4 34. Ra8 a5
+35. Ra7+ Kf6 36. Qe7# 1-0
